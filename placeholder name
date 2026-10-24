@@ -1,0 +1,7 @@
+#window setup
+import tkinter
+
+window = tkinter.Tk()
+window.title ("Calculator")
+window.resizable(width = False, height = False)
+window.mainloop()
